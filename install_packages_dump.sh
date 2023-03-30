@@ -44,6 +44,7 @@ packages_list=(ca-certificates.noarch
                make.x86_64
                net-tools.x86_64
                python3-numpy.x86_64
+	       python3-pip
                python3.x86_64
                rlwrap.x86_64
                tar.x86_64
