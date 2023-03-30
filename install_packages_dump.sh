@@ -58,7 +58,6 @@ packages_list=(ca-certificates.noarch
                zip.x86_64
                zsh.x86_64
                docker
-               docker-compose
                java-17-openjdk
                java-17-openjdk-devel
                nodejs
